@@ -1,0 +1,19 @@
+{
+  "name": "node-self-learning",
+  "version": "1.0.0",
+  "description": "Node applications to learn all the aspects about Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasRodriguesOliveira/Node-Self-Learning.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LucasRodriguesOliveira/Node-Self-Learning/issues"
+  },
+  "homepage": "https://github.com/LucasRodriguesOliveira/Node-Self-Learning#readme"
+}
